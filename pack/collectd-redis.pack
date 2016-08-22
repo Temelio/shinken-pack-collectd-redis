@@ -1,0 +1,6 @@
+{
+    "name": "collectd-redis",
+    "description": "Checks to manage our Redis collectd checks",
+    "path": "collectd-redis",
+    "macros": {}
+}
